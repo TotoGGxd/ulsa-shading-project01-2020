@@ -16,11 +16,5 @@ public class Axis : MonoBehaviour
     void Update()
     {
     
-    float h = Input.GetAxis("Horizontal");
-    float v = Input.GetAxis("Vertical");
-    float hPos = h * hRange;
-    float vPos = v * vRange;
-
-
     }
 }
